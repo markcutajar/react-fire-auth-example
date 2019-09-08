@@ -1,9 +1,9 @@
 export default {
-  apiKey: "AIzaSyDfu53prPBUJXZKMxryn27MCvFP9zuXnGU",
-  authDomain: "sexy-auth.firebaseapp.com",
-  databaseURL: "https://sexy-auth.firebaseio.com",
-  projectId: "sexy-auth",
+  apiKey: "AIzaSyAC-uLsjvMHnCPzqiKCfp4_CCpbglY7_vY",
+  authDomain: "react-firebase-signin.firebaseapp.com",
+  databaseURL: "https://react-firebase-signin.firebaseio.com",
+  projectId: "react-firebase-signin",
   storageBucket: "",
-  messagingSenderId: "219620184506",
-  appId: "1:219620184506:web:333528e32e721d50"
+  messagingSenderId: "950504337818",
+  appId: "1:950504337818:web:b865096b8843b5441f0a23"
 };
